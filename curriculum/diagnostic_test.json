@@ -1,0 +1,54 @@
+{
+  "topics": [
+    {
+      "topic": "Linear Algebra",
+      "questions": [
+        {
+          "id": "la_q1",
+          "question": "What is the result of multiplying a 2x3 matrix by a 3x1 matrix?",
+          "options": ["A 2x1 matrix", "A 3x2 matrix", "A 1x1 matrix", "Not possible"],
+          "answer": "A 2x1 matrix"
+        },
+        {
+          "id": "la_q2",
+          "question": "An eigenvector of a matrix A satisfies which equation?",
+          "options": ["Av = λv", "Av = v + λ", "A = vλ", "Av = λA"],
+          "answer": "Av = λv"
+        }
+      ]
+    },
+    {
+      "topic": "Calculus",
+      "questions": [
+        {
+          "id": "calc_q1",
+          "question": "What does the derivative of a function represent?",
+          "options": ["The slope at a point", "The area under the curve", "The max value", "The volume"],
+          "answer": "The slope at a point"
+        }
+      ]
+    },
+    {
+      "topic": "Probability & Statistics",
+      "questions": [
+        {
+          "id": "prob_q1",
+          "question": "What is the sum of all probabilities in a probability distribution?",
+          "options": ["1", "0", "Depends on the sample space", "∞"],
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "topic": "Discrete Math",
+      "questions": [
+        {
+          "id": "dm_q1",
+          "question": "Which of the following is a valid graph traversal algorithm?",
+          "options": ["Depth First Search", "Fast Fourier Transform", "Backpropagation", "Newton-Raphson"],
+          "answer": "Depth First Search"
+        }
+      ]
+    }
+  ]
+}
